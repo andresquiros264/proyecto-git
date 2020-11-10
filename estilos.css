@@ -1,8 +1,12 @@
-head
-body
+.container
 {
-    color: blue;
+    color: black;
     text-align: center;
     font-family: Arial;
-    
+}
+a
+{
+    color: black;
+    text-align: center;
+    font-family: Arial;
 }
