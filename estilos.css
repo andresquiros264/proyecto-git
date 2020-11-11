@@ -1,4 +1,8 @@
+body{
+    background-color:#900000 ;
+}
 .container
+
 {
     color: black;
     text-align: center;
@@ -6,7 +10,20 @@
 }
 a
 {
-    color: black;
+    color: white;
     text-align: center;
     font-family: Arial;
+    padding: 5px 10px;
+    text-decoration: none;
 }
+
+h1
+{
+    text-align: center;
+    padding: 15px 0;
+}
+
+nav
+{
+    
+    margin-top: 15px;}
